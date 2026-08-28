@@ -1,5 +1,5 @@
 {
- "active_days": 18,
+ "active_days": 15,
  "busiest": 26,
  "end": "2026-08-28",
  "grid": [
@@ -312,9 +312,9 @@
     "level": 3
    },
    {
-    "count": 3,
+    "count": 0,
     "date": "2025-10-20",
-    "level": 4
+    "level": 0
    },
    {
     "count": 1,
@@ -1400,9 +1400,9 @@
     "level": 0
    },
    {
-    "count": 3,
+    "count": 0,
     "date": "2025-11-21",
-    "level": 4
+    "level": 0
    },
    {
     "count": 0,
@@ -1600,7 +1600,7 @@
     "level": 0
    },
    {
-    "count": 12,
+    "count": 19,
     "date": "2026-08-28",
     "level": 4
    }
@@ -1667,9 +1667,9 @@
     "level": 0
    },
    {
-    "count": 1,
+    "count": 0,
     "date": "2025-11-22",
-    "level": 2
+    "level": 0
    },
    {
     "count": 0,
