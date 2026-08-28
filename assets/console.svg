@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="402" viewBox="0 0 768 402" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+  <title id="title">Sofía Rodríguez — consola de perfil</title>
+  <desc id="desc">Retrato en ASCII junto a una ficha de sistema. nombre: sofía rodríguez · rol: ing. civil informática · lugar: chile · estado: construyendo · aprendiendo · benthos: plataforma ambiental multiempresa · mapa uct: navegación de campus · buscador: recuperación semántica · cónicas: herramienta de estudio · web: react · typescript · tailwind · backend: .net · postgresql · docker · datos: python · numpy · sql · cursando: análisis de datos · agentes de ia.</desc>
+  <rect x="0.5" y="0.5" width="767" height="401" rx="10" fill="#0B0C10" stroke="#22252E"/>
+  <rect x="24" y="19" width="7" height="7" rx="1.5" fill="#8B7BFF"/>
+  <rect x="38" y="19" width="7" height="7" rx="1.5" fill="#22252E"/>
+  <rect x="52" y="19" width="7" height="7" rx="1.5" fill="#22252E"/>
+  <text x="80" y="27" font-size="11" fill="#5A6070">sofia@github ~ <tspan fill="#8B7BFF">%</tspan> ./perfil --live</text>
+  <line x1="0" y1="44" x2="768" y2="44" stroke="#191C23"/>
+  <defs>
+    <clipPath id="fila0">
+      <rect x="23.99999999999997" y="105.0" width="171.4" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="171.4" begin="0.25s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila1">
+      <rect x="23.99999999999997" y="114.3" width="160.4" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="160.4" begin="0.295s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila2">
+      <rect x="23.99999999999997" y="123.6" width="298.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="298.6" begin="0.34s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila3">
+      <rect x="23.99999999999997" y="132.9" width="315.2" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="315.2" begin="0.385s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila4">
+      <rect x="23.99999999999997" y="142.2" width="320.7" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="320.7" begin="0.43s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila5">
+      <rect x="23.99999999999997" y="151.5" width="320.7" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="320.7" begin="0.475s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila6">
+      <rect x="23.99999999999997" y="160.8" width="304.1" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="304.1" begin="0.52s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila7">
+      <rect x="23.99999999999997" y="170.2" width="298.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="298.6" begin="0.565s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila8">
+      <rect x="23.99999999999997" y="179.5" width="298.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="298.6" begin="0.61s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila9">
+      <rect x="23.99999999999997" y="188.8" width="293.1" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="293.1" begin="0.655s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila10">
+      <rect x="23.99999999999997" y="198.1" width="287.5" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="287.5" begin="0.7s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila11">
+      <rect x="23.99999999999997" y="207.4" width="287.5" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="287.5" begin="0.745s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila12">
+      <rect x="23.99999999999997" y="216.7" width="293.1" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="293.1" begin="0.79s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila13">
+      <rect x="23.99999999999997" y="226.0" width="298.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="298.6" begin="0.835s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila14">
+      <rect x="23.99999999999997" y="235.3" width="298.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="298.6" begin="0.88s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila15">
+      <rect x="23.99999999999997" y="244.6" width="304.1" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="304.1" begin="0.925s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila16">
+      <rect x="23.99999999999997" y="253.9" width="309.6" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="309.6" begin="0.97s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila17">
+      <rect x="23.99999999999997" y="263.2" width="326.2" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="326.2" begin="1.015s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila18">
+      <rect x="23.99999999999997" y="272.5" width="331.8" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="331.8" begin="1.06s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila19">
+      <rect x="23.99999999999997" y="281.8" width="337.3" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="337.3" begin="1.105s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila20">
+      <rect x="23.99999999999997" y="291.2" width="342.8" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="342.8" begin="1.15s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila21">
+      <rect x="23.99999999999997" y="300.5" width="348.4" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="348.4" begin="1.195s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila22">
+      <rect x="23.99999999999997" y="309.8" width="359.4" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="359.4" begin="1.24s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila23">
+      <rect x="23.99999999999997" y="319.1" width="370.5" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="370.5" begin="1.285s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila24">
+      <rect x="23.99999999999997" y="328.4" width="370.5" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="370.5" begin="1.33s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="fila25">
+      <rect x="23.99999999999997" y="337.7" width="376.0" height="11.3">
+        <set attributeName="width" to="0" begin="0s"/>
+        <animate attributeName="width" from="0" to="376.0" begin="1.375s" dur="0.32s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="23.99999999999997" y="114.2" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila0)">                             ==</text>
+  <text x="23.99999999999997" y="123.5" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila1)">                       -==+*+</text>
+  <text x="23.99999999999997" y="132.8" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila2)">                    =*#######*                 =+*%#*+</text>
+  <text x="23.99999999999997" y="142.1" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila3)">                   =*****##*##%#+               =*%%%%##+</text>
+  <text x="23.99999999999997" y="151.4" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila4)">                  **+##*#####*#*#%%#++===-==    =*%%*#####</text>
+  <text x="23.99999999999997" y="160.8" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila5)">                +#*+######%###*+=+*++==+=--#*+*+--=*#*%*==</text>
+  <text x="23.99999999999997" y="170.1" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila6)">              =+#*+######%###**+=**+:...-=+*-==:--*%**#</text>
+  <text x="23.99999999999997" y="179.4" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila7)">             +*#*+######%%#%#**++*+*.   .-**-.=  -%#=+</text>
+  <text x="23.99999999999997" y="188.7" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila8)">           =+*#*+*#####%%#%###+=++===-=-=**+-... .#**=</text>
+  <text x="23.99999999999997" y="198.0" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila9)">          =**#*+#####%%%%#%##*+++-:.    +-::.  :=-**=</text>
+  <text x="23.99999999999997" y="207.3" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila10)">          **##+*##*#%%%%%####*+*=-:     .....    =@#</text>
+  <text x="23.99999999999997" y="216.6" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila11)">         =##****#*###%%%%#%##+++=-:      ..     .%#*</text>
+  <text x="23.99999999999997" y="225.9" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila12)">         +##++*##*###%%%####*++=-:.    ::::...  #%#*+</text>
+  <text x="23.99999999999997" y="235.2" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila13)">         ***++#%*#%%%%%%#%%##**=::..  .-::     *%##*+-</text>
+  <text x="23.99999999999997" y="244.5" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila14)">         +*++*##*#%%%%%%#%#*##*==-:...   .    #%%%##*=</text>
+  <text x="23.99999999999997" y="253.8" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila15)">        *#****##*#%%%%%##%#**+#*+=-:..       #%%%%###*+</text>
+  <text x="23.99999999999997" y="263.1" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila16)">      +##***######%@%%#%%##**+*+====-:.     *%%%%%####*+</text>
+  <text x="23.99999999999997" y="272.4" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila17)">    =*##****##%**#%%%%%@%##*+*-:...:-==+++*%%%%%##*###*=++=</text>
+  <text x="23.99999999999997" y="281.8" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila18)">   +##*****##%%**%%%%%%%%##*++:.  .:-=%@@@@%%%%##%##**##+=+*</text>
+  <text x="23.99999999999997" y="291.1" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila19)"> +#%#***#*###%%#*#%%@%%%%##**-.....:=*%@%%@%%%%##%*#*+*###***</text>
+  <text x="23.99999999999997" y="300.4" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila20)">%##*+*###*##%%%#**%%%%######*+:...:-=*%%@@%@@%%#*###+*#**###**</text>
+  <text x="23.99999999999997" y="309.7" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila21)">*+++#%#%####%#%#**%%%%%%%%###@%-:--==*%#@#+#%%%@%**#**#+#**###+</text>
+  <text x="23.99999999999997" y="319.0" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila22)">++#%%%%%####%##*###%%%%%%%%##@@*:==+**###*##*###%%##%+%#*#******+</text>
+  <text x="23.99999999999997" y="328.3" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila23)">##%%%%%%####%#%###*#%%%#%##*%#%%==+***###%@@@%%%%@%%%*%#+#%###*+**+</text>
+  <text x="23.99999999999997" y="337.6" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila24)">%%%%%%%##%##%%%*####%%###*##%*%@*+*#**##%%%%####%%@@%#%++#%%%##****</text>
+  <text x="23.99999999999997" y="346.9" font-size="9.22" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila25)">%%%%%%%###*#%%%####*#%#####%%@%%#++= *#%#####*##*#%@%%%++###%%*#****</text>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.15s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="80.0" font-size="10" fill="#8B7BFF" letter-spacing="1.4">SISTEMA</text>
+    <line x1="493.2" y1="76.0" x2="744" y2="76.0" stroke="#191C23"/>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.205s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.205s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="102.0" font-size="11" fill="#5A6070">nombre</text>
+    <text x="504" y="102.0" font-size="11" fill="#E9EBF1">sofía rodríguez</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.26s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="116.5" font-size="11" fill="#5A6070">rol</text>
+    <text x="504" y="116.5" font-size="11" fill="#E9EBF1">ing. civil informática</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.315s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.315s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="131.0" font-size="11" fill="#5A6070">lugar</text>
+    <text x="504" y="131.0" font-size="11" fill="#E9EBF1">chile</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.37s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.37s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="145.5" font-size="11" fill="#5A6070">estado</text>
+    <text x="504" y="145.5" font-size="11" fill="#E9EBF1">construyendo · aprendiendo</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.425s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.425s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="170.0" font-size="10" fill="#8B7BFF" letter-spacing="1.4">CONSTRUYENDO</text>
+    <line x1="531.2" y1="166.0" x2="744" y2="166.0" stroke="#191C23"/>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.48s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.48s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="192.0" font-size="11" fill="#5A6070">benthos</text>
+    <text x="504" y="192.0" font-size="11" fill="#E9EBF1">plataforma ambiental multiempresa</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.535s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.535s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="206.5" font-size="11" fill="#5A6070">mapa uct</text>
+    <text x="504" y="206.5" font-size="11" fill="#E9EBF1">navegación de campus</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.59s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.59s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="221.0" font-size="11" fill="#5A6070">buscador</text>
+    <text x="504" y="221.0" font-size="11" fill="#E9EBF1">recuperación semántica</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.645s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.645s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="235.5" font-size="11" fill="#5A6070">cónicas</text>
+    <text x="504" y="235.5" font-size="11" fill="#E9EBF1">herramienta de estudio</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.7s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="260.0" font-size="10" fill="#8B7BFF" letter-spacing="1.4">STACK</text>
+    <line x1="478.0" y1="256.0" x2="744" y2="256.0" stroke="#191C23"/>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.755s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.755s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="282.0" font-size="11" fill="#5A6070">web</text>
+    <text x="504" y="282.0" font-size="11" fill="#E9EBF1">react · typescript · tailwind</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.81s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.81s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="296.5" font-size="11" fill="#5A6070">backend</text>
+    <text x="504" y="296.5" font-size="11" fill="#E9EBF1">.net · postgresql · docker</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.865s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.865s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="311.0" font-size="11" fill="#5A6070">datos</text>
+    <text x="504" y="311.0" font-size="11" fill="#E9EBF1">python · numpy · sql</text>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.92s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="335.5" font-size="10" fill="#8B7BFF" letter-spacing="1.4">APRENDIENDO</text>
+    <line x1="523.6" y1="331.5" x2="744" y2="331.5" stroke="#191C23"/>
+  </g>
+  <g>
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.975s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.975s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
+    <text x="424" y="357.5" font-size="11" fill="#5A6070">cursando</text>
+    <text x="504" y="357.5" font-size="11" fill="#E9EBF1">análisis de datos · agentes de ia</text>
+  </g>
+</svg>
