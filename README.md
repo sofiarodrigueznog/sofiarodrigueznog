@@ -24,6 +24,20 @@ sostener, decisiones que pueda defender y una interfaz que alguien más quiera u
 
 ## ~/construyendo
 
+Reparto mi trabajo en dos cuentas: esta es la principal y en
+[@sofiatrops](https://github.com/sofiatrops) viven los proyectos de universidad. Cada
+proyecto dice dónde está.
+
+**[Benthos Environmental Platform](https://github.com/sofiatrops/Benthos)** · plataforma multiempresa de gestión ambiental · [@sofiatrops](https://github.com/sofiatrops)<br>
+Backend en .NET sobre PostgreSQL + PostGIS, como monolito modular con Clean Architecture
+y CQRS. Lo interesante está en el aislamiento entre empresas: el tenant se deriva del JWT
+y baja hasta **Row-Level Security** de Postgres, así que un descuido en la aplicación no
+alcanza para filtrar datos de otro cliente — lo impide la base misma. Los archivos nunca
+atraviesan la API: se suben y descargan con URLs firmadas de vida corta contra
+almacenamiento S3. Portal en Angular con login OIDC contra Keycloak, worker para trabajo
+en segundo plano y las decisiones de diseño escritas como ADR.<br>
+`C#` `.NET` `PostgreSQL` `PostGIS` `EF Core` `MediatR` `Angular` `Keycloak` `Docker` `xUnit` `Testcontainers`
+
 **[Mapa de Campus UCT](https://github.com/sofiarodrigueznog/test-mapa)** · navegación e información para los campus de la universidad<br>
 Corre sobre los planos isométricos oficiales con Leaflet en `CRS.Simple`: las coordenadas
 del dominio son píxeles del plano y no latitud/longitud. Es una decisión con costo — no
@@ -31,32 +45,27 @@ hay GPS real — a cambio de conservar la identidad visual de los planos y llega
 de sala. Las rutas peatonales se resuelven con **Dijkstra** sobre un grafo de caminos, y
 la conversión entre sistemas de coordenadas vive aislada en un módulo, para que un error
 de proyección tenga un solo lugar donde buscarse. 55 pruebas.<br>
-`React 19` `TypeScript` `Vite` `Tailwind` `Leaflet` `TanStack Query` `Zustand` `Zod` `Vitest`
+`React` `TypeScript` `Vite` `Tailwind` `Leaflet` `TanStack Query` `Zustand` `Zod` `Vitest`
 
-**[Urban Node](https://github.com/sofiarodrigueznog/Urban-Node-Entrega-3)** · armario digital con cuentas de usuario<br>
-Registro y sesión, CRUD completo de prendas contra MySQL, subida de imágenes al servidor y
-formularios que viajan por `fetch` + JSON. Fue mi primer sistema con estado real del lado
-del servidor: sesiones, archivos y una base que sobrevive al refresh.<br>
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
-**Sistema de restaurante** · `repositorio privado`<br>
-Clientes, menús, ingredientes y pedidos modelados con SQLAlchemy sobre SQLite, con las
-relaciones y restricciones declaradas en los modelos. La emisión de boletas en PDF queda
-detrás de un **Facade**, así que el resto del sistema no conoce el detalle del formato, y
-los gráficos de ventas y consumo se calculan sobre esas mismas entidades.<br>
-`Python` `SQLAlchemy` `pandas` `matplotlib` `CustomTkinter`
+**[Buscador semántico](https://github.com/sofiatrops/EID-Algebra-Lineal)** · recuperación de documentos con álgebra lineal · [@sofiatrops](https://github.com/sofiatrops)<br>
+Cada documento de un corpus se convierte en un vector TF-IDF y la consulta se compara
+midiendo el coseno del ángulo entre vectores. La vectorización y la similitud están
+escritas sobre `numpy` y no delegadas a una librería que ya las resuelve: el punto era
+entender por qué el método funciona antes de usarlo.<br>
+`Python` `numpy` `pytest` `matplotlib`
 
 ## ~/stack
 
-Solo lo que he usado en los proyectos de arriba.
+Lo que he usado construyendo, no lo que he leído.
 
 | área | herramientas |
 |---|---|
-| **lenguajes** | `TypeScript` `JavaScript` `Python` `PHP` `SQL` `HTML` `CSS` |
-| **frontend** | `React` `React Router` `Vite` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `React Hook Form` `Leaflet` |
-| **datos** | `MySQL` `SQLite` `SQLAlchemy` `pandas` `matplotlib` |
-| **calidad** | `Vitest` `oxlint` `TypeScript` en modo estricto |
-| **criterio** | patrones de diseño · separación de responsabilidades · modelado de datos |
+| **lenguajes** | `TypeScript` `Python` `C#` `JavaScript` `SQL` `PHP` |
+| **frontend** | `React` `Angular` `Vite` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `Leaflet` |
+| **backend** | `.NET` `EF Core` `MediatR` `Hangfire` `SQLAlchemy` |
+| **datos** | `PostgreSQL` `PostGIS` `MySQL` `SQLite` `numpy` `pandas` `matplotlib` |
+| **infra y calidad** | `Docker` `Keycloak` `GitHub Actions` `xUnit` `Vitest` `pytest` `Testcontainers` |
+| **criterio** | Clean Architecture · DDD · CQRS · SOLID · patrones de diseño · modelado de datos |
 
 ## ~/aprendiendo
 
