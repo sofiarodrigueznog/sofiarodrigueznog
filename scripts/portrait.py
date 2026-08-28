@@ -13,7 +13,7 @@ Dos decisiones sostienen la calidad del retrato:
    hace falta una librería de segmentación.
 2. El contraste se normaliza usando **solo** los píxeles del sujeto. Medido
    sobre la imagen completa, una figura oscura sobre fondo claro cae entera en
-   el extremo denso de la rampa y se convierte en una mancha.
+   un extremo de la rampa y se convierte en una mancha.
 """
 
 import json
@@ -21,12 +21,17 @@ import sys
 from collections import deque
 from pathlib import Path
 
-RAMP = " .:-=+*#%@"  # claro (disperso) → oscuro (denso)
+# La rampa va de oscuro a claro, al revés de lo habitual. El retrato se dibuja
+# con glifos claros sobre un panel casi negro, así que más tinta es más luz: si
+# se mapeara al derecho, la cara —la zona más clara de la foto— saldría vacía y
+# quedaría un agujero en mitad del retrato.
+RAMP = " .:-=+*#%@"  # oscuro (vacío) → claro (denso)
 
-COLUMNS = 72
-CROP = (0.22, 0.02, 0.80, 0.56)  # encuadre de busto, en fracciones de la foto
+COLUMNS = 76
+CROP = (0.08, 0.12, 0.92, 0.74)  # encuadre de busto, en fracciones de la foto
 ASPECT = 0.59                    # avance / interlineado de la monoespaciada
 BACKGROUND = 95                  # a partir de aquí un píxel del borde es fondo
+FLOOR = 0.18                     # bajo este brillo no se dibuja nada
 
 
 def _mask(pixels, cols, rows):
@@ -84,7 +89,9 @@ def convert(photo: Path, cols: int = COLUMNS, crop=CROP) -> list:
                 line += " "
                 continue
             value = min(1.0, max(0.0, (pixels[x, y] - low) / span))
-            line += RAMP[int((1 - value) * (len(RAMP) - 1))]
+            # Las sombras profundas se apagan: dibujarlas siembra puntos
+            # sueltos que se leen como suciedad, no como ropa.
+            line += " " if value < FLOOR else RAMP[int(value * (len(RAMP) - 1))]
         art.append(line)
 
     return _trim(art)

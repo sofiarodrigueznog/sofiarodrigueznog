@@ -6,33 +6,73 @@
     {
       "title": "sistema",
       "rows": [
-        ["nombre", "sofía rodríguez"],
-        ["rol", "ing. civil informática"],
-        ["lugar", "chile"],
-        ["estado", "construyendo · aprendiendo"]
+        [
+          "nombre",
+          "sofía rodríguez"
+        ],
+        [
+          "rol",
+          "ing. civil informática"
+        ],
+        [
+          "lugar",
+          "chile"
+        ],
+        [
+          "equipo",
+          "the quaintum hub"
+        ],
+        [
+          "estado",
+          "construyendo · aprendiendo"
+        ]
       ]
     },
     {
       "title": "construyendo",
       "rows": [
-        ["benthos", "plataforma ambiental multiempresa"],
-        ["mapa uct", "navegación de campus"],
-        ["buscador", "recuperación semántica"],
-        ["cónicas", "herramienta de estudio"]
+        [
+          "benthos",
+          "plataforma ambiental multiempresa"
+        ],
+        [
+          "mapa uct",
+          "navegación de campus"
+        ],
+        [
+          "buscador",
+          "recuperación semántica"
+        ],
+        [
+          "cónicas",
+          "herramienta de estudio"
+        ]
       ]
     },
     {
       "title": "stack",
       "rows": [
-        ["web", "react · typescript · tailwind"],
-        ["backend", ".net · postgresql · docker"],
-        ["datos", "python · numpy · sql"]
+        [
+          "web",
+          "react · typescript · tailwind"
+        ],
+        [
+          "backend",
+          ".net · postgresql · docker"
+        ],
+        [
+          "datos",
+          "python · numpy · sql"
+        ]
       ]
     },
     {
       "title": "aprendiendo",
       "rows": [
-        ["cursando", "análisis de datos · agentes de ia"]
+        [
+          "cursando",
+          "análisis de datos · agentes de ia"
+        ]
       ]
     }
   ]

@@ -11,8 +11,10 @@
 <a href="https://github.com/sofiarodrigueznog/test-mapa">mapa uct</a> ·
 <a href="https://github.com/sofiatrops/EID-Algebra-Lineal">buscador</a> ·
 <a href="https://github.com/sofiatrops/EID-Calculo-Grupo-10">cónicas</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+<br>
 lo de universidad vive en <a href="https://github.com/sofiatrops">@sofiatrops</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+equipo en <a href="https://github.com/The-Quaintum-Hub">@The-Quaintum-Hub</a>
 </sub>
 
 </div>
