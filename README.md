@@ -54,6 +54,17 @@ escritas sobre `numpy` y no delegadas a una librería que ya las resuelve: el pu
 entender por qué el método funciona antes de usarlo.<br>
 `Python` `numpy` `pytest` `matplotlib`
 
+**[Cónicas y límites desde el RUT](https://github.com/sofiatrops/EID-Calculo-Grupo-10)** · herramienta de estudio para una defensa oral de cálculo · [@sofiatrops](https://github.com/sofiatrops)<br>
+Un RUT chileno válido genera una ecuación de segundo grado única: la aplicación la
+clasifica, la lleva a forma canónica paso a paso y la grafica; la otra pestaña arma una
+función por tramos y analiza límites laterales, continuidad y tipo de discontinuidad. La
+decisión interesante no es matemática sino de producto: los campos de la defensa nacen
+vacíos y el botón de comprobar **evalúa lo que escribió el estudiante en vez de responder
+por él**, y las respuestas vuelven a ocultarse con cada RUT nuevo, porque en la defensa
+real no pueden estar a la vista. Todo el cálculo está implementado a mano, sin `numpy`,
+`sympy` ni `math`. Proyecto en equipo de tres.<br>
+`Python` `CustomTkinter` `matplotlib`
+
 ## ~/stack
 
 Lo que he usado construyendo, no lo que he leído.
@@ -61,7 +72,7 @@ Lo que he usado construyendo, no lo que he leído.
 | área | herramientas |
 |---|---|
 | **lenguajes** | `TypeScript` `Python` `C#` `JavaScript` `SQL` `PHP` |
-| **frontend** | `React` `Angular` `Vite` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `Leaflet` |
+| **frontend** | `React` `Angular` `Vite` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `Leaflet` `CustomTkinter` |
 | **backend** | `.NET` `EF Core` `MediatR` `Hangfire` `SQLAlchemy` |
 | **datos** | `PostgreSQL` `PostGIS` `MySQL` `SQLite` `numpy` `pandas` `matplotlib` |
 | **infra y calidad** | `Docker` `Keycloak` `GitHub Actions` `xUnit` `Vitest` `pytest` `Testcontainers` |
