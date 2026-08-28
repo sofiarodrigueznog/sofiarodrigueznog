@@ -50,28 +50,112 @@
       ]
     },
     {
-      "title": "stack",
-      "rows": [
-        [
-          "web",
-          "react · typescript · tailwind"
-        ],
-        [
-          "backend",
-          ".net · postgresql · docker"
-        ],
-        [
-          "datos",
-          "python · numpy · sql"
-        ]
-      ]
-    },
-    {
       "title": "aprendiendo",
       "rows": [
         [
           "cursando",
           "análisis de datos · agentes de ia"
+        ]
+      ]
+    }
+  ],
+  "stack": [
+    {
+      "title": "lenguajes",
+      "items": [
+        [
+          "typescript",
+          "TypeScript"
+        ],
+        [
+          "javascript",
+          "JavaScript"
+        ],
+        [
+          "python",
+          "Python"
+        ],
+        [
+          "",
+          "C#"
+        ],
+        [
+          "php",
+          "PHP"
+        ],
+        [
+          "html5",
+          "HTML"
+        ],
+        [
+          "css",
+          "CSS"
+        ],
+        [
+          "",
+          "SQL"
+        ]
+      ]
+    },
+    {
+      "title": "frontend",
+      "items": [
+        [
+          "react",
+          "React"
+        ],
+        [
+          "angular",
+          "Angular"
+        ],
+        [
+          "vite",
+          "Vite"
+        ],
+        [
+          "tailwindcss",
+          "Tailwind"
+        ],
+        [
+          "leaflet",
+          "Leaflet"
+        ]
+      ]
+    },
+    {
+      "title": "plataforma",
+      "items": [
+        [
+          "dotnet",
+          ".NET"
+        ],
+        [
+          "postgresql",
+          "PostgreSQL"
+        ],
+        [
+          "mysql",
+          "MySQL"
+        ],
+        [
+          "sqlite",
+          "SQLite"
+        ],
+        [
+          "docker",
+          "Docker"
+        ],
+        [
+          "keycloak",
+          "Keycloak"
+        ],
+        [
+          "numpy",
+          "NumPy"
+        ],
+        [
+          "git",
+          "Git"
         ]
       ]
     }

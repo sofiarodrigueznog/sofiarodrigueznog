@@ -1,7 +1,10 @@
 <div align="center">
 
 <img src="assets/console.svg" width="768"
-     alt="Consola de perfil: retrato en ASCII de Sofía Rodríguez junto a una ficha de sistema con su rol, los proyectos que construye, su stack y lo que está aprendiendo.">
+     alt="Consola de perfil: retrato en ASCII de Sofía Rodríguez junto a una ficha de sistema con su rol, su equipo, los proyectos que construye y lo que está aprendiendo.">
+
+<img src="assets/stack.svg" width="768"
+     alt="Tecnologías que uso, agrupadas en lenguajes, frontend y plataforma, cada una con su marca.">
 
 <img src="assets/activity.svg" width="768"
      alt="Calendario de contribuciones de GitHub del último año, en una grilla de 53 semanas por 7 días.">
@@ -24,6 +27,7 @@ equipo en <a href="https://github.com/The-Quaintum-Hub">@The-Quaintum-Hub</a>
 
 ---
 
-<sub>SVG dibujados por <a href="scripts/build.py"><code>scripts/build.py</code></a> con
-la librería estándar de Python · calendario real, sin token ni servicios externos ·
-<a href=".github/workflows/activity.yml">workflow</a> diario</sub>
+<sub>SVG dibujados por <a href="scripts/build.py"><code>scripts/build.py</code></a> con la
+librería estándar de Python · calendario real, sin token ni servicios externos ·
+<a href=".github/workflows/activity.yml">workflow</a> diario · marcas de
+<a href="https://simpleicons.org">Simple Icons</a> (CC0), incrustadas en el SVG</sub>

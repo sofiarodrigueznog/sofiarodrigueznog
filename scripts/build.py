@@ -16,12 +16,14 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import contributions  # noqa: E402
 import heatmap  # noqa: E402
+import stack  # noqa: E402
 import console  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CALENDAR = ROOT / "data" / "contributions.json"
 PROFILE = ROOT / "data" / "profile.json"
 PORTRAIT = ROOT / "data" / "portrait.json"
+LOGOS = ROOT / "data" / "logos.json"
 ASSETS = ROOT / "assets"
 
 USER = "sofiarodrigueznog"
@@ -67,6 +69,10 @@ def main() -> int:
 
     ASSETS.mkdir(exist_ok=True)
     write(ASSETS / "activity.svg", heatmap.render(calendar))
+    write(
+        ASSETS / "stack.svg",
+        stack.render(stack.load(PROFILE), stack.load(LOGOS)),
+    )
     write(
         ASSETS / "console.svg",
         console.render(console.load(PROFILE), console.load(PORTRAIT)),

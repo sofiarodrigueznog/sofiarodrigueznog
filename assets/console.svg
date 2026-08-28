@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="416" viewBox="0 0 768 416" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="388" viewBox="0 0 768 388" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
   <title id="title">Sofía Rodríguez — consola de perfil</title>
-  <desc id="desc">Retrato en ASCII junto a una ficha de sistema. nombre: sofía rodríguez · rol: ing. civil informática · lugar: chile · equipo: the quaintum hub · estado: construyendo · aprendiendo · benthos: plataforma ambiental multiempresa · mapa uct: navegación de campus · buscador: recuperación semántica · cónicas: herramienta de estudio · web: react · typescript · tailwind · backend: .net · postgresql · docker · datos: python · numpy · sql · cursando: análisis de datos · agentes de ia.</desc>
-  <rect x="0.5" y="0.5" width="767" height="415" rx="10" fill="#0B0C10" stroke="#22252E"/>
+  <desc id="desc">Retrato en ASCII junto a una ficha de sistema. nombre: sofía rodríguez · rol: ing. civil informática · lugar: chile · equipo: the quaintum hub · estado: construyendo · aprendiendo · benthos: plataforma ambiental multiempresa · mapa uct: navegación de campus · buscador: recuperación semántica · cónicas: herramienta de estudio · cursando: análisis de datos · agentes de ia.</desc>
+  <rect x="0.5" y="0.5" width="767" height="387" rx="10" fill="#0B0C10" stroke="#22252E"/>
   <rect x="24" y="19" width="7" height="7" rx="1.5" fill="#8B7BFF"/>
   <rect x="38" y="19" width="7" height="7" rx="1.5" fill="#22252E"/>
   <rect x="52" y="19" width="7" height="7" rx="1.5" fill="#22252E"/>
@@ -9,244 +9,244 @@
   <line x1="0" y1="44" x2="768" y2="44" stroke="#191C23"/>
   <defs>
     <clipPath id="fila0">
-      <rect x="23.99999999999997" y="83.8" width="224.6" height="10.8">
+      <rect x="23.99999999999997" y="70.0" width="224.6" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="224.6" begin="0.25s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila1">
-      <rect x="23.99999999999997" y="92.6" width="240.2" height="10.8">
+      <rect x="23.99999999999997" y="78.8" width="240.2" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="240.2" begin="0.295s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila2">
-      <rect x="23.99999999999997" y="101.4" width="250.7" height="10.8">
+      <rect x="23.99999999999997" y="87.6" width="250.7" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="250.7" begin="0.34s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila3">
-      <rect x="23.99999999999997" y="110.2" width="261.1" height="10.8">
+      <rect x="23.99999999999997" y="96.4" width="261.1" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="261.1" begin="0.385s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila4">
-      <rect x="23.99999999999997" y="119.0" width="266.3" height="10.8">
+      <rect x="23.99999999999997" y="105.2" width="266.3" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="266.3" begin="0.43s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila5">
-      <rect x="23.99999999999997" y="127.8" width="271.6" height="10.8">
+      <rect x="23.99999999999997" y="114.0" width="271.6" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="271.6" begin="0.475s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila6">
-      <rect x="23.99999999999997" y="136.6" width="276.8" height="10.8">
+      <rect x="23.99999999999997" y="122.7" width="276.8" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="276.8" begin="0.52s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila7">
-      <rect x="23.99999999999997" y="145.3" width="282.0" height="10.8">
+      <rect x="23.99999999999997" y="131.5" width="282.0" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="282.0" begin="0.565s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila8">
-      <rect x="23.99999999999997" y="154.1" width="287.2" height="10.8">
+      <rect x="23.99999999999997" y="140.3" width="287.2" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="287.2" begin="0.61s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila9">
-      <rect x="23.99999999999997" y="162.9" width="287.2" height="10.8">
+      <rect x="23.99999999999997" y="149.1" width="287.2" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="287.2" begin="0.655s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila10">
-      <rect x="23.99999999999997" y="171.7" width="292.4" height="10.8">
+      <rect x="23.99999999999997" y="157.9" width="292.4" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="292.4" begin="0.7s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila11">
-      <rect x="23.99999999999997" y="180.5" width="297.7" height="10.8">
+      <rect x="23.99999999999997" y="166.7" width="297.7" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="297.7" begin="0.745s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila12">
-      <rect x="23.99999999999997" y="189.3" width="297.7" height="10.8">
+      <rect x="23.99999999999997" y="175.5" width="297.7" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="297.7" begin="0.79s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila13">
-      <rect x="23.99999999999997" y="198.1" width="302.9" height="10.8">
+      <rect x="23.99999999999997" y="184.3" width="302.9" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="302.9" begin="0.835s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila14">
-      <rect x="23.99999999999997" y="206.9" width="302.9" height="10.8">
+      <rect x="23.99999999999997" y="193.1" width="302.9" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="302.9" begin="0.88s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila15">
-      <rect x="23.99999999999997" y="215.7" width="308.1" height="10.8">
+      <rect x="23.99999999999997" y="201.9" width="308.1" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="308.1" begin="0.925s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila16">
-      <rect x="23.99999999999997" y="224.5" width="308.1" height="10.8">
+      <rect x="23.99999999999997" y="210.7" width="308.1" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="308.1" begin="0.97s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila17">
-      <rect x="23.99999999999997" y="233.2" width="313.3" height="10.8">
+      <rect x="23.99999999999997" y="219.4" width="313.3" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="313.3" begin="1.015s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila18">
-      <rect x="23.99999999999997" y="242.0" width="313.3" height="10.8">
+      <rect x="23.99999999999997" y="228.2" width="313.3" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="313.3" begin="1.06s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila19">
-      <rect x="23.99999999999997" y="250.8" width="318.6" height="10.8">
+      <rect x="23.99999999999997" y="237.0" width="318.6" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="318.6" begin="1.105s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila20">
-      <rect x="23.99999999999997" y="259.6" width="323.8" height="10.8">
+      <rect x="23.99999999999997" y="245.8" width="323.8" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="323.8" begin="1.15s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila21">
-      <rect x="23.99999999999997" y="268.4" width="323.8" height="10.8">
+      <rect x="23.99999999999997" y="254.6" width="323.8" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="323.8" begin="1.195s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila22">
-      <rect x="23.99999999999997" y="277.2" width="329.0" height="10.8">
+      <rect x="23.99999999999997" y="263.4" width="329.0" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="329.0" begin="1.24s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila23">
-      <rect x="23.99999999999997" y="286.0" width="334.2" height="10.8">
+      <rect x="23.99999999999997" y="272.2" width="334.2" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="334.2" begin="1.285s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila24">
-      <rect x="23.99999999999997" y="294.8" width="344.7" height="10.8">
+      <rect x="23.99999999999997" y="281.0" width="344.7" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="344.7" begin="1.33s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila25">
-      <rect x="23.99999999999997" y="303.6" width="349.9" height="10.8">
+      <rect x="23.99999999999997" y="289.8" width="349.9" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="349.9" begin="1.375s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila26">
-      <rect x="23.99999999999997" y="312.4" width="355.1" height="10.8">
+      <rect x="23.99999999999997" y="298.6" width="355.1" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="355.1" begin="1.42s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila27">
-      <rect x="23.99999999999997" y="321.2" width="355.1" height="10.8">
+      <rect x="23.99999999999997" y="307.4" width="355.1" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="355.1" begin="1.465s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila28">
-      <rect x="23.99999999999997" y="329.9" width="360.3" height="10.8">
+      <rect x="23.99999999999997" y="316.1" width="360.3" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="360.3" begin="1.51s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila29">
-      <rect x="23.99999999999997" y="338.7" width="365.6" height="10.8">
+      <rect x="23.99999999999997" y="324.9" width="365.6" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="365.6" begin="1.555s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila30">
-      <rect x="23.99999999999997" y="347.5" width="360.3" height="10.8">
+      <rect x="23.99999999999997" y="333.7" width="360.3" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="360.3" begin="1.6s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila31">
-      <rect x="23.99999999999997" y="356.3" width="370.8" height="10.8">
+      <rect x="23.99999999999997" y="342.5" width="370.8" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="370.8" begin="1.645s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila32">
-      <rect x="23.99999999999997" y="365.1" width="329.0" height="10.8">
+      <rect x="23.99999999999997" y="351.3" width="329.0" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="329.0" begin="1.69s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="fila33">
-      <rect x="23.99999999999997" y="373.9" width="376.0" height="10.8">
+      <rect x="23.99999999999997" y="360.1" width="376.0" height="10.8">
         <set attributeName="width" to="0" begin="0s"/>
         <animate attributeName="width" from="0" to="376.0" begin="1.735s" dur="0.32s" fill="freeze"/>
       </rect>
     </clipPath>
   </defs>
-  <text x="23.99999999999997" y="92.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila0)">                                    ==----=</text>
-  <text x="23.99999999999997" y="101.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila1)">                             =:   .         :-</text>
-  <text x="23.99999999999997" y="110.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila2)">                           -     :             :</text>
-  <text x="23.99999999999997" y="118.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila3)">                          :     -:              :=</text>
-  <text x="23.99999999999997" y="127.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila4)">                         .    :=**#*+:   .      :.:</text>
-  <text x="23.99999999999997" y="136.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila5)">                        .   -*#%%%%%@#-.  .     .: :</text>
-  <text x="23.99999999999997" y="145.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila6)">                       :    +####%%%%%*-         .  :</text>
-  <text x="23.99999999999997" y="154.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila7)">                      =    :+*###%%@@@@#:            -</text>
-  <text x="23.99999999999997" y="162.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila8)">                      :    =*#######**#%+            .=</text>
-  <text x="23.99999999999997" y="171.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila9)">                      :    ==+++#%#=---=+-            :</text>
-  <text x="23.99999999999997" y="180.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila10)">                      :    -::.:*@@#=-=+*#-            :</text>
-  <text x="23.99999999999997" y="189.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila11)">                      .    .:::=%@@@@%%@@@#.            =</text>
-  <text x="23.99999999999997" y="198.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila12)">                     =     +##*#@@@@%*#%@@@=            :</text>
-  <text x="23.99999999999997" y="206.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila13)">                     =    :*##+=*#**%#++#%%*          .  =</text>
-  <text x="23.99999999999997" y="215.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila14)">                     :     +*+===+*#%@%++#%+     .:   .  :</text>
-  <text x="23.99999999999997" y="224.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila15)">                     :     :=====++*##%**#%+             :=</text>
-  <text x="23.99999999999997" y="233.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila16)">                     :      :==:-+**#%%%###=              -</text>
-  <text x="23.99999999999997" y="242.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila17)">                    =        :=====*#%@@@%*:     ...      .=</text>
-  <text x="23.99999999999997" y="250.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila18)">                    :          -++*%%@@@%*-       :     .. :</text>
-  <text x="23.99999999999997" y="259.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila19)">                   =            :=++****=:              :.. -</text>
-  <text x="23.99999999999997" y="268.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila20)">                 -:                :------:             :    =</text>
-  <text x="23.99999999999997" y="277.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila21)">              -                     .-----:.        :   :.   -</text>
-  <text x="23.99999999999997" y="285.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila22)">            :                       ::----:         :    :  .-=</text>
-  <text x="23.99999999999997" y="294.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila23)">          :                        .::::-:.       .      .: .:--</text>
-  <text x="23.99999999999997" y="303.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila24)">         :. .       .   .    .    .-+=---:     :  :       :   :::-</text>
-  <text x="23.99999999999997" y="312.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila25)">        ::.          .  ::    .   .:+@%-=:.    :  :.      :.    :.:</text>
-  <text x="23.99999999999997" y="321.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila26)">       : .         . .  ::    ..  :..+%==-::   .  :  :    .:     : =</text>
-  <text x="23.99999999999997" y="329.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila27)">                   .    ::      . . : -*=-::         -:    :   ::. .</text>
-  <text x="23.99999999999997" y="338.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila28)">                        :.      . .  - :-==-.        ::    .:  .:...:</text>
-  <text x="23.99999999999997" y="347.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila29)">                        :. .          : =-++:    .          -:   ....-</text>
-  <text x="23.99999999999997" y="356.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila30)">                    .   :..        -    =+==.               ::   ...:</text>
-  <text x="23.99999999999997" y="365.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila31)">                         ::      . :     =+=.               ....   ::.:</text>
-  <text x="23.99999999999997" y="373.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila32)"> :                        .  :   . :     =+=:                ::</text>
-  <text x="23.99999999999997" y="382.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila33)">:             .          :       : :      =-:          . :.  ..      ..=</text>
+  <text x="23.99999999999997" y="78.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila0)">                                    ==----=</text>
+  <text x="23.99999999999997" y="87.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila1)">                             =:   .         :-</text>
+  <text x="23.99999999999997" y="96.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila2)">                           -     :             :</text>
+  <text x="23.99999999999997" y="105.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila3)">                          :     -:              :=</text>
+  <text x="23.99999999999997" y="113.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila4)">                         .    :=**#*+:   .      :.:</text>
+  <text x="23.99999999999997" y="122.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila5)">                        .   -*#%%%%%@#-.  .     .: :</text>
+  <text x="23.99999999999997" y="131.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila6)">                       :    +####%%%%%*-         .  :</text>
+  <text x="23.99999999999997" y="140.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila7)">                      =    :+*###%%@@@@#:            -</text>
+  <text x="23.99999999999997" y="149.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila8)">                      :    =*#######**#%+            .=</text>
+  <text x="23.99999999999997" y="157.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila9)">                      :    ==+++#%#=---=+-            :</text>
+  <text x="23.99999999999997" y="166.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila10)">                      :    -::.:*@@#=-=+*#-            :</text>
+  <text x="23.99999999999997" y="175.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila11)">                      .    .:::=%@@@@%%@@@#.            =</text>
+  <text x="23.99999999999997" y="184.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila12)">                     =     +##*#@@@@%*#%@@@=            :</text>
+  <text x="23.99999999999997" y="193.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila13)">                     =    :*##+=*#**%#++#%%*          .  =</text>
+  <text x="23.99999999999997" y="201.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila14)">                     :     +*+===+*#%@%++#%+     .:   .  :</text>
+  <text x="23.99999999999997" y="210.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila15)">                     :     :=====++*##%**#%+             :=</text>
+  <text x="23.99999999999997" y="219.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila16)">                     :      :==:-+**#%%%###=              -</text>
+  <text x="23.99999999999997" y="228.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila17)">                    =        :=====*#%@@@%*:     ...      .=</text>
+  <text x="23.99999999999997" y="236.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila18)">                    :          -++*%%@@@%*-       :     .. :</text>
+  <text x="23.99999999999997" y="245.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila19)">                   =            :=++****=:              :.. -</text>
+  <text x="23.99999999999997" y="254.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila20)">                 -:                :------:             :    =</text>
+  <text x="23.99999999999997" y="263.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila21)">              -                     .-----:.        :   :.   -</text>
+  <text x="23.99999999999997" y="272.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila22)">            :                       ::----:         :    :  .-=</text>
+  <text x="23.99999999999997" y="280.9" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila23)">          :                        .::::-:.       .      .: .:--</text>
+  <text x="23.99999999999997" y="289.7" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila24)">         :. .       .   .    .    .-+=---:     :  :       :   :::-</text>
+  <text x="23.99999999999997" y="298.5" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila25)">        ::.          .  ::    .   .:+@%-=:.    :  :.      :.    :.:</text>
+  <text x="23.99999999999997" y="307.3" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila26)">       : .         . .  ::    ..  :..+%==-::   .  :  :    .:     : =</text>
+  <text x="23.99999999999997" y="316.1" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila27)">                   .    ::      . . : -*=-::         -:    :   ::. .</text>
+  <text x="23.99999999999997" y="324.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila28)">                        :.      . .  - :-==-.        ::    .:  .:...:</text>
+  <text x="23.99999999999997" y="333.6" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila29)">                        :. .          : =-++:    .          -:   ....-</text>
+  <text x="23.99999999999997" y="342.4" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila30)">                    .   :..        -    =+==.               ::   ...:</text>
+  <text x="23.99999999999997" y="351.2" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila31)">                         ::      . :     =+=.               ....   ::.:</text>
+  <text x="23.99999999999997" y="360.0" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila32)"> :                        .  :   . :     =+=:                ::</text>
+  <text x="23.99999999999997" y="368.8" font-size="8.70" fill="#9AA1B1" xml:space="preserve" clip-path="url(#fila33)">:             .          :       : :      =-:          . :.  ..      ..=</text>
   <g>
     <set attributeName="opacity" to="0" begin="0s"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.45s" fill="freeze"/>
@@ -328,42 +328,14 @@
     <set attributeName="opacity" to="0" begin="0s"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.755s" dur="0.45s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.755s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="274.5" font-size="10" fill="#8B7BFF" letter-spacing="1.4">STACK</text>
-    <line x1="478.0" y1="270.5" x2="744" y2="270.5" stroke="#191C23"/>
+    <text x="424" y="274.5" font-size="10" fill="#8B7BFF" letter-spacing="1.4">APRENDIENDO</text>
+    <line x1="523.6" y1="270.5" x2="744" y2="270.5" stroke="#191C23"/>
   </g>
   <g>
     <set attributeName="opacity" to="0" begin="0s"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.81s" dur="0.45s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.81s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="296.5" font-size="11" fill="#5A6070">web</text>
-    <text x="504" y="296.5" font-size="11" fill="#E9EBF1">react · typescript · tailwind</text>
-  </g>
-  <g>
-    <set attributeName="opacity" to="0" begin="0s"/>
-    <animate attributeName="opacity" from="0" to="1" begin="1.865s" dur="0.45s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.865s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="311.0" font-size="11" fill="#5A6070">backend</text>
-    <text x="504" y="311.0" font-size="11" fill="#E9EBF1">.net · postgresql · docker</text>
-  </g>
-  <g>
-    <set attributeName="opacity" to="0" begin="0s"/>
-    <animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.45s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.92s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="325.5" font-size="11" fill="#5A6070">datos</text>
-    <text x="504" y="325.5" font-size="11" fill="#E9EBF1">python · numpy · sql</text>
-  </g>
-  <g>
-    <set attributeName="opacity" to="0" begin="0s"/>
-    <animate attributeName="opacity" from="0" to="1" begin="1.975s" dur="0.45s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="1.975s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="350.0" font-size="10" fill="#8B7BFF" letter-spacing="1.4">APRENDIENDO</text>
-    <line x1="523.6" y1="346.0" x2="744" y2="346.0" stroke="#191C23"/>
-  </g>
-  <g>
-    <set attributeName="opacity" to="0" begin="0s"/>
-    <animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.45s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" begin="2.03s" dur="0.45s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
-    <text x="424" y="372.0" font-size="11" fill="#5A6070">cursando</text>
-    <text x="504" y="372.0" font-size="11" fill="#E9EBF1">análisis de datos · agentes de ia</text>
+    <text x="424" y="296.5" font-size="11" fill="#5A6070">cursando</text>
+    <text x="504" y="296.5" font-size="11" fill="#E9EBF1">análisis de datos · agentes de ia</text>
   </g>
 </svg>

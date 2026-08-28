@@ -16,6 +16,7 @@ TITLEBAR = 44
 ART_BOX = 376        # ancho reservado al retrato
 ADVANCE = 0.6        # avance de un carácter monoespaciado, en ems
 LINE = 1.01          # interlineado, en ems
+ART_MAX = 320        # alto máximo del retrato
 
 ROW = 14.5           # alto de una fila de la ficha
 HEADER = 22          # alto de un encabezado de sección
@@ -118,11 +119,11 @@ def render(profile: dict, portrait: dict) -> str:
     card, card_bottom = _card(profile["panels"], PAD + ART_BOX + 24, body_top + 10)
     card_height = card_bottom - body_top
 
-    # El retrato se ajusta al hueco: crece hasta llenar el ancho reservado y se
-    # frena si fuera a pasar de alto que la ficha. Así cualquier fotografía
-    # futura encaja sin tocar una sola medida a mano.
+    # El retrato manda: crece hasta llenar el ancho reservado y solo se frena
+    # en su alto máximo. Atarlo a la altura de la ficha lo encogía cada vez que
+    # se quitaba una fila de texto, que es justo al revés de lo que importa.
     size = min(ART_BOX / (portrait["columns"] * ADVANCE),
-               card_height / (len(art) * LINE))
+               ART_MAX / (len(art) * LINE))
     art_height = len(art) * size * LINE
     art_width = portrait["columns"] * size * ADVANCE
 
